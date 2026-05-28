@@ -15,6 +15,13 @@ NVT is designed to support creator rewards, paid creative works, purchasing Nove
 - Official X Announcement: https://x.com/novetcoin/status/2057086718898266322
 - PolygonScan Token Page: https://polygonscan.com/token/0x2bCAbF131ab1D3620914f17b576BD3d6fA76812e
 - Support Email: support@novetcoin.com
+- Project / Operator Information: https://novetcoin.com/portal/project.html
+
+## Project / Operator Information
+
+Official project and operator transparency information is available here:
+https://novetcoin.com/portal/project.html
+This page provides public information about the NovetCoin operator, official contact channels, token purpose, official token logo, token sale status, and public project documentation.
 
 ## Token Information
 
